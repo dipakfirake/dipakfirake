@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dipak%20Firake&fontColor=ffffff&fontSize=55&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20.NET%20%E2%80%A2%20MERN%20Stack&descAlignY=55&descSize=20&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://github.com/dipakfirake">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Java+%7C+Spring+Boot+%7C+.NET+%7C+React;MERN+Stack+%7C+MySQL+%7C+MongoDB;Full-Stack+Web+Developer;Software+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
   
+  <a href="https://github.com/dipakfirake">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Java+%7C+Spring+Boot+%7C+.NET+%7C+React;MERN+Stack+%7C+MySQL+%7C+MongoDB;Full-Stack+Web+Developer;Software+Developer" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakfirake/)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcfirake2@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipakfirake)
@@ -17,30 +17,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<table>
-<tr><td>
+🎓 **PG-DAC** from **C-DAC, Mumbai** _(2025 - 2026)_
 
-**🎓 Education**
+🎓 **B.E. in IT** from **PVG's COE, Nashik** _(2020 - 2024)_
 
-| Degree | Institution | Year |
-| :--- | :--- | :---: |
-| PG-DAC (Advanced Computing) | C-DAC, Mumbai | `2025 - 2026` |
-| B.E. in Information Technology | PVG's COE, Nashik | `2020 - 2024` |
+🔭 Currently building scalable enterprise applications
 
-**🚀 What I Bring to the Table**
+💡 Engineered **15+ production-ready APIs** at Humming Byte Technologies
 
-- Engineered **15+ production-ready RESTful APIs** at Humming Byte Technologies
-- Proven ability to deliver project milestones **ahead of schedule**
-- Built **cross-platform backends** using Spring Boot & .NET architecture
-- Strong foundation in **Data Structures, Algorithms & System Design**
-- Passionate about writing **clean, maintainable, and scalable** code
+⚡ Delivered project milestones **ahead of schedule**
 
-**🔭 Currently Exploring:** Microservices Architecture, Cloud Deployment, and Advanced System Design Patterns
+🛠️ Cross-platform backend expertise: **Spring Boot + .NET**
 
-</td></tr>
-</table>
+🎯 Strong in **DSA, System Design & Clean Architecture**
+
+🌱 Exploring **Microservices & Cloud Deployment**
+
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -48,25 +45,12 @@
 
 <div align="center">
 
-### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,javascript&theme=dark&perline=10" alt="Languages" />
-</a>
-
-### Backend & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,hibernate&theme=dark&perline=10" alt="Backend" />
-</a>
-
-### Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark&perline=10" alt="Frontend" />
-</a>
-
-### Databases, Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,maven,vscode,docker&theme=dark&perline=10" alt="Tools" />
-</a>
+| Category | Technologies |
+| :--- | :---: |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,python,cpp,javascript&theme=dark" alt="Languages" /></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,hibernate&theme=dark" alt="Backend" /></a> |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="Frontend" /></a> |
+| **Database & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,maven,vscode,docker&theme=dark" alt="Tools" /></a> |
 
 </div>
 
@@ -186,23 +170,45 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipakfirake&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipakfirake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipakfirake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipakfirake&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakfirake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakfirake&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipakfirake&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipakfirake&theme=tokyonight" alt="Repos per Language" width="32%"/>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakfirake&bg_color=0D1117&color=58A6FF&line=1f6feb&point=FFFFFF&area=true&hide_border=true&area_color=1f6feb" alt="Contribution Graph" width="95%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipakfirake/dipakfirake/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipakfirake/dipakfirake/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/dipakfirake/dipakfirake/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -212,7 +218,6 @@
 ### 🤝 &nbsp;Open to Opportunities
 
 **I'm actively looking for Full-Stack Developer roles where I can contribute to impactful products.**
-If you're a recruiter or hiring manager, I'd love to connect!
 
 [![Hire Me](https://img.shields.io/badge/📄_Download_Resume-2ea44f?style=for-the-badge)](mailto:dcfirake2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakfirake/)
