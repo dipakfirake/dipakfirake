@@ -76,25 +76,12 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Humming Byte Technologies Pvt. Ltd.          Jul 2024 - Dec 2024          │
-│  ► Software Developer Intern                                               │
-│    Engineered backend solutions & 15+ RESTful APIs                         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  The Kiran Academy                            Jun 2024 - Jul 2024          │
-│  ► Java Full Stack Intern                                                  │
-│    Built end-to-end Java web applications                                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  NetLeap IT Training And Solutions            Jan 2024 - Feb 2024          │
-│  ► Full-stack Developer                                                    │
-│    Developed full-stack web solutions                                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Oasis Infobyte                               Aug 2023 - Sep 2023          │
-│  ► Java Development Intern                                                 │
-│    Core Java development & application building                            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Company | Role | Duration |
+| :--- | :--- | :---: |
+| **Humming Byte Technologies Pvt. Ltd.** | Software Developer Intern — _Engineered backend solutions & 15+ RESTful APIs_ | `Jul 2024 - Dec 2024` |
+| **The Kiran Academy** | Java Full Stack Intern — _Built end-to-end Java web applications_ | `Jun 2024 - Jul 2024` |
+| **NetLeap IT Training And Solutions** | Full-stack Developer — _Developed full-stack web solutions_ | `Jan 2024 - Feb 2024` |
+| **Oasis Infobyte** | Java Development Intern — _Core Java development & application building_ | `Aug 2023 - Sep 2023` |
 
 </div>
 
