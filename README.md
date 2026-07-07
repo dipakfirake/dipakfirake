@@ -23,7 +23,7 @@
 
 🎓 **PG-DAC** from **C-DAC, Mumbai** _(2025 - 2026)_
 
-🎓 **B.E. in IT** from **PVG's COE, Nashik** _(2020 - 2024)_
+🎓 **B.E. in IT** from **PVG's COE, Nashik** _(2020 - 2025)_
 
 🔭 Currently building scalable enterprise applications
 
